@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+	color: #023047;
+	background-image: url("https://img.freepik.com/fotos-gratis/fundo-de-papel-de-parede-colorido-desfocado-vivido_58702-3181.jpg?w=740&t=st=1680591866~exp=1680592466~hmac=b5c049beb8f3ed38d078723dbbb6963579ebbc053c0673f314ca73ced841dbad");
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+	width:100%;
+	height: 100vh;
+	
+}
+
+
+h2{
+    margin-top: 8%;
+}
+.btn{
+    width: 100%;
+    margin-top: 10%;
+    padding: 3%;
+    margin-left: 250%;
+}
+.col-1{
+    margin-top: 1%;
+}
+.col-2{
+    margin-top: 1%;
+}
+.col-3{
+    margin-top: 1%;
+}
+.col-4{
+    margin-top: 1%;
+}
+.col-5{
+    margin-top: 1%;
+}
+.col-6{
+    margin-top: 1%;
+}
+.col-7{
+    margin-top: 1%;
+}
+.col-8{
+    margin-top: 1%;
+}
+.col-9{
+    margin-top: 1%;
+}
+.col-10{
+    margin-top: 1%;
+}
+.col-11{
+    margin-top: 1%;
+}
+.col-12{
+    margin-top: 1%;
+}
+.blocos{
+    background-color:black;
+    color: whitesmoke;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;    
+}
